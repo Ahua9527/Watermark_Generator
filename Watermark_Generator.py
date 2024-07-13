@@ -53,6 +53,9 @@ def main():
     save_path = os.path.join(os.path.expanduser('~/Desktop'), file_name)
     image.save(save_path)
 
+    # 在访达中显示该图片
+    subprocess.run(["open", "-R", save_path])
+
     print(f"图片已保存到：{save_path}")
 
 if __name__ == '__main__':
