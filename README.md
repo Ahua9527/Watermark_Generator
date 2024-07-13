@@ -19,7 +19,3 @@ python Watermark_Generator.py
 ```console
 python -d Watermark_Generator.py
 ```
-
-#### 方法二
-#### [懒人快捷指令](https://www.icloud.com/shortcuts/4f6a41daea0b4037af5a91294aca67c1)
-###### `👆点我需要MacOS 12 Monterey +`  
